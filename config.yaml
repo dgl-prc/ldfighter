@@ -1,0 +1,46 @@
+EMBEDDING_MODEL_PATH:
+  /root/autodl-tmp/SFR-Embedding-Mistral
+
+META_TRANSLATOR_MODEL_PATH:
+  /root/autodl-tmp/seamless-m4t-v2-large
+  # /root/seamless-m4t-v2-large
+  #  /root/autodl-tmp/project/trans_attack/translator/seamless-m4t-v2-large
+LLMS_PATH:
+  LLAMA2_13B:
+    MODEL:
+      /root/autodl-tmp/open_source_llms/llama/llama-2-13b-chat
+    TOKENIZER:
+      /root/autodl-tmp/open_source_llms/llama/tokenizer/tokenizer.model
+  GEMMA_7B:
+    MODEL:
+      /root/autodl-tmp/gemma-7b-it/
+  LLAMA2_7B:
+    MODEL:
+      /root/autodl-tmp/models--meta-llama--Llama-2-7b-chat-hf
+
+DATA_PATH:
+  NQ:
+     /root/autodl-tmp/project/ldfighter/dataset/NQ-open.efficientqa.test.1.1.no-annotations.jsonl
+  ADV_BENCH:
+     /root/autodl-tmp/project/ldfighter/dataset/harmful_behaviors.csv
+
+MULTILINGUAL_DATA_PATH:
+  NQ:
+     /root/autodl-tmp/project/ldfighter/dataset/translated_nq.json
+  ADV_BENCH:
+     /root/autodl-tmp/project/ldfighter/dataset/translated_harmful.json
+
+EXPER_RST_SAVE_PATH:
+   /root/autodl-tmp/project/ldfighter/expe_results
+
+HUGGING_FACE_TOKEN:
+  [your token]
+
+AzureOpenAI:
+  BASE:""
+  KEY:""
+
+GEMINIPRO_API_KEY:
+   ""
+DEBUG:
+  False

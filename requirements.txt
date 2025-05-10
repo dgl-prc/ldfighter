@@ -1,0 +1,13 @@
+torch
+fairscale
+immutabledict
+sentencepiece
+transformers
+openai
+sentence-transformers
+google-generativeai
+langchain
+huggingface_hub
+accelerate
+langdetec
+scikit-learn
