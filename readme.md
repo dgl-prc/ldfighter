@@ -52,9 +52,9 @@ Please refer to the folder `LDFighter` for a holistic implementation of LDFighte
 ![image](qa_ben.png)
 ### Safety discrimination
 **Question-Answer in Gujarati**
-![image](jailbreak_gu.png)
+<img src="jailbreak_gu.png" width="400" />
 **The translation of question and answer in English**
-![image](jailbreak_gu2eng.png)
+<img src="jailbreak_gu2eng.png" width="400" />
 
 
 
