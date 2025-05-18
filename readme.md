@@ -50,10 +50,14 @@ Please refer to the folder `LDFighter` for a holistic implementation of LDFighte
 ![image](qa_hye.png)
 **Question-Answer in Bengali**
 ![image](qa_ben.png)
+
 ### Safety discrimination
 **Question-Answer in Gujarati**
+
 <img src="jailbreak_gu.png" width="400" />
+
 **The translation of question and answer in English**
+
 <img src="jailbreak_gu2eng.png" width="400" />
 
 
