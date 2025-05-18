@@ -41,6 +41,24 @@ PS：The results of RQ3 are based on the results of rq1 and calculated on-the-fl
 
 ## LDFighter
 Please refer to the folder `LDFighter` for a holistic implementation of LDFighter.
+
+## Examples of multilingual discrimination
+### Response quality discrimination
+**Question-Answer in English**
+![image](qa_eng.png)
+**Question-Answer in Armenian**
+![image](qa_hye.png)
+**Question-Answer in Bengali**
+![image](qa_ben.png)
+### Safety discrimination
+**Question-Answer in Gujarati**
+![image](jailbreak_gu.png)
+**The translation of question and answer in English**
+![image](jailbreak_gu2eng.png)
+
+
+
+
 ## Citation
 TBD
 <!-- Evaluating and Mitigating Linguistic Discrimination in Large Language Models: Perspectives on Safety Equity and Knowledge Equity -->
