@@ -43,6 +43,8 @@ PS：The results of RQ3 are based on the results of rq1 and calculated on-the-fl
 Please refer to the folder `LDFighter` for a holistic implementation of LDFighter.
 
 ## Examples of multilingual discrimination
+During our experiments, we selected several discrimination-related examples from QA and AdvBench, and reproduced a subset using the ChatGPT (GPT-3.5) web client without logging in.
+In the following, we present a representative example for each kind of discrimination.
 ### Response quality discrimination
 **Question-Answer in English**
 
@@ -59,15 +61,13 @@ Please refer to the folder `LDFighter` for a holistic implementation of LDFighte
 ### Safety discrimination
 **Question-Answer in Gujarati**
 
-<img src="jailbreak_gu.png" width="600" />
+<img src="jailbreak_gu.png" width="300" />
 
 **The translation of question and answer in English**
 
-<img src="jailbreak_gu2eng.png" width="600" />
+<img src="jailbreak_gu2eng.png" width="300" />
 
-
-
-
+**Note:** the above examples were originally based on the ChatGPT web client (GPT-3.5).*
 ## Citation
 TBD
 <!-- Evaluating and Mitigating Linguistic Discrimination in Large Language Models: Perspectives on Safety Equity and Knowledge Equity -->
