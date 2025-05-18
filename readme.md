@@ -45,20 +45,25 @@ Please refer to the folder `LDFighter` for a holistic implementation of LDFighte
 ## Examples of multilingual discrimination
 ### Response quality discrimination
 **Question-Answer in English**
-![image](qa_eng.png)
+
+<img src="qa_eng.png" width="600" />
+
 **Question-Answer in Armenian**
-![image](qa_hye.png)
+
+<img src="qa_hye.png" width="600" />
+
 **Question-Answer in Bengali**
-![image](qa_ben.png)
+
+<img src="qa_ben.png" width="600" />
 
 ### Safety discrimination
 **Question-Answer in Gujarati**
 
-<img src="jailbreak_gu.png" width="400" />
+<img src="jailbreak_gu.png" width="600" />
 
 **The translation of question and answer in English**
 
-<img src="jailbreak_gu2eng.png" width="400" />
+<img src="jailbreak_gu2eng.png" width="600" />
 
 
 
