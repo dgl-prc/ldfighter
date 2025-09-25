@@ -1,4 +1,4 @@
-
+Code and experimental results of paper "Evaluating and Mitigating Linguistic Discrimination in Large Language Models: Perspectives on Safety Equity and Knowledge Equity" in IJCAI 2025.
 ## Installation
 #### Step 1: Create  virtual environment.
 ```
@@ -69,5 +69,19 @@ In the following, we present a representative example for each kind of discrimin
 
 **Note:** the above examples were originally based on the ChatGPT web client (GPT-3.5).*
 ## Citation
-TBD
-<!-- Evaluating and Mitigating Linguistic Discrimination in Large Language Models: Perspectives on Safety Equity and Knowledge Equity -->
+```
+@inproceedings{ijcai2025p40,
+  title     = {Evaluating and Mitigating Linguistic Discrimination in Large Language Models: Perspectives on Safety Equity and Knowledge Equity},
+  author    = {Dong, Guoliang and Wang, Haoyu and Sun, Jun and Wang, Xinyu},
+  booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on
+               Artificial Intelligence, {IJCAI-25}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {James Kwok},
+  pages     = {348--356},
+  year      = {2025},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2025/40},
+  url       = {https://doi.org/10.24963/ijcai.2025/40},
+}
+```
